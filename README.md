@@ -15,3 +15,14 @@ This project aims to predict the prices of used cars based on various features s
   Prediction: Making predictions on new car data.
 
 ## Dataset
+   ### Data Overview before Transformation.
+   
+   <img width="608" alt="Screenshot 2024-07-17 171805 - overview" src="https://github.com/user-attachments/assets/4d29c65e-06c8-473b-9a8a-849875193b29">
+
+   ## Data Information.
+
+   <img width="183" alt="Screenshot 2024-07-17 170639-dataInfo" src="https://github.com/user-attachments/assets/798a67dd-41b5-4a45-acab-b3222182bda2">
+
+
+   
+
